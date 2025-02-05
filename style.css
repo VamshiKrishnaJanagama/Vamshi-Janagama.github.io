@@ -4,7 +4,7 @@
   }
   body {
     background-color: rgb(250, 250, 250);
-    font-family: "Roboto", sans-serif;
+    font-family: "Roboto", normal;
   }
   h1,
   h2,
@@ -50,7 +50,7 @@
   }
   .header-bio h1,
   .design {
-    font-family: "Bebas Neue", regular 400;
+    font-family: 'BebasNeueRegular', sans-serif;
     text-shadow: 5px 3px 4px rgb(168, 168, 159);
   }
   .design {
