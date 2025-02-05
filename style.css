@@ -71,7 +71,7 @@
     color: white;
   }
   .header-contact a:hover {
-    color: blue;
+    color: rgb(205, 205, 214);
   }
   .item {
     font-weight: bold;
@@ -88,8 +88,10 @@
     padding: 20px;
     width: 600px;
   }
-  
-  .mainListPart {
+   .mainListPart {
+    width: 500px;
+    margin: 8px 100px;
+    position: relative;
   }
   .subListPart {
     width: 500px;
