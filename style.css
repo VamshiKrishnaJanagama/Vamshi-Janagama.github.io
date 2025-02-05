@@ -19,17 +19,7 @@
   .div-clear {
     clear: both;
   }
-  .myImage {
-    width: 100px;
-    height: 100px;
-    padding: 20px 25px;
-    float: left;
-  }
-  .image {
-    width: 100%;
-    box-shadow: 6px 6px rgba(221, 245, 6, 0.61);
-    border-radius: 20px;
-  }
+
   .container {
     max-width: 1000px;
     background-image: linear-gradient(
