@@ -12,7 +12,7 @@
   h4,
   h5,
   h6 {
-    color: #0f2411;
+    color: #090a09;
     font-family: "Roboto", bold;
     font-size: 25px;
   }
@@ -123,4 +123,8 @@
   .social-site a:hover {
     color: rgb(84, 84, 107);
     text-decoration: underline;
+  }
+  .Languages {
+    color: rgb(84, 84, 107);
+    text-align: center;
   }
