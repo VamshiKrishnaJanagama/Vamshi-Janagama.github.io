@@ -45,7 +45,7 @@
     box-shadow: 5px 25px 14px rgb(155, 154, 152);
   }
   .header-bio {
-    float: left;
+    float: center;
     padding: 30px;
   }
   .header-bio h1,
@@ -63,7 +63,7 @@
     color: rgb(12, 12, 12);
   }
   .header-contact {
-    float: right;
+    float: center;
     padding: 30px;
   }
   .header-contact a {
