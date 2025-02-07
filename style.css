@@ -44,10 +44,6 @@
     color: white;
     box-shadow: 5px 25px 14px rgb(155, 154, 152);
   }
-  .header-bio {
-    float: center;
-    padding: 30px;
-  }
   .header-bio h1,
   .design {
     font-family: 'Garamond', serif;
@@ -62,15 +58,11 @@
   .lastName {
     color: rgb(12, 12, 12);
   }
-  .header-contact {
-    float: center;
-    padding: 30px;
-  }
-  .header-contact a {
+  .header-contact p {
     text-decoration: none;
     color: rgb(12, 12, 12);
   }
-  .header-contact a:hover {
+  .header-contact p:hover {
     color: rgb(12, 12, 12);
   }
   .item {
