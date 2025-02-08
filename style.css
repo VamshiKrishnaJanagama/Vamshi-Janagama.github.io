@@ -44,10 +44,11 @@
     color: white;
     box-shadow: 5px 25px 14px rgb(155, 154, 152);
   }
-  .header-bio h1,
+  .header-bio h1,h2
   .design {
     font-family: 'Garamond', serif;
     text-shadow: 5px 3px 4px rgb(99, 99, 95);
+    padding: 80px;
   }
   .design {
     margin: 0px 25px;
@@ -61,9 +62,7 @@
   .header-contact p {
     text-decoration: none;
     color: rgb(12, 12, 12);
-  }
-  .header-contact p:hover {
-    color: rgb(12, 12, 12);
+    padding: 80px;
   }
   .item {
     font-weight: bold;
