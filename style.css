@@ -44,22 +44,21 @@
     color: white;
     box-shadow: 5px 25px 14px rgb(155, 154, 152);
   }
-  .header-bio h1,h2, .container
+  .header-bio h1,h2
   .design {
     font-family: 'Garamond', serif;
     text-shadow: 5px 3px 4px rgb(99, 99, 95);
-    text-align: center;
-  }
-  .design {
-    margin: 0px 25px;
   }
   .name {
     color: rgb(12, 12, 12);
+    text-align: center
   }
   .lastName {
     color: rgb(12, 12, 12);
+    text-align: center
   }
-  .header-contact p, .container {
+  .header-contact p 
+  {
     text-decoration: none;
     color: rgb(12, 12, 12);
     text-align: center;
@@ -67,6 +66,7 @@
   .item {
     font-weight: bold;
     font-size: 20px;
+    text-align: center
   }
   
   .left-part {
