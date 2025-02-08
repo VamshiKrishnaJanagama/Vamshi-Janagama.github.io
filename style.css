@@ -44,7 +44,7 @@
     color: white;
     box-shadow: 5px 25px 14px rgb(155, 154, 152);
   }
-  .header-bio h1,h2
+  .header-bio h1,h2, .container
   .design {
     font-family: 'Garamond', serif;
     text-shadow: 5px 3px 4px rgb(99, 99, 95);
@@ -59,7 +59,7 @@
   .lastName {
     color: rgb(12, 12, 12);
   }
-  .header-contact p {
+  .header-contact p, .container {
     text-decoration: none;
     color: rgb(12, 12, 12);
     text-align: center;
