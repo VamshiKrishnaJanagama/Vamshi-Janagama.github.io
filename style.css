@@ -48,6 +48,7 @@
   .design {
     font-family: 'Garamond', serif;
     text-shadow: 5px 3px 4px rgb(99, 99, 95);
+    text-align: center
   }
   .name {
     color: rgb(12, 12, 12);
