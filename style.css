@@ -16,6 +16,12 @@
     font-family: "Roboto", bold;
     font-size: 25px;
   }
+  p
+  {
+    color: #090a09;
+    font-family: "Roboto", Regular;
+    font-size: 20px; 
+  }
   .div-clear {
     clear: both;
   }
@@ -36,8 +42,8 @@
       -45deg,
       rgba(225, 231, 231, 0.863),
       rgba(209, 212, 210, 0.788),
-      rgba(196, 211, 197, 0.788),
-      rgba(168, 198, 199, 0.863),
+      rgba(215, 221, 216, 0.788),
+      rgba(194, 207, 207, 0.863),
       transparent
     );
     margin: 0 auto;
