@@ -44,8 +44,7 @@
     color: white;
     box-shadow: 5px 25px 14px rgb(155, 154, 152);
   }
-  .header-bio h1,h2
-  .design {
+  .header-bio h1,h2 {
     font-family: 'Garamond', serif;
     text-shadow: 5px 3px 4px rgb(99, 99, 95);
     text-align: center
@@ -66,7 +65,7 @@
   }
   .item {
     font-weight: bold;
-    font-size: 20px;
+    font-size: 15px;
     text-align: center
   }
   
