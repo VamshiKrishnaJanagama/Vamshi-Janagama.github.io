@@ -16,7 +16,7 @@
     font-family: "Roboto", bold;
     font-size: 25px;
   }
-  p
+  p, li
   {
     color: #090a09;
     font-family: "Roboto", Regular;
@@ -34,7 +34,7 @@
     );
     margin: 0 auto;
     color: white;
-    box-shadow: 5px 25px 14px rgb(155, 154, 152);
+    box-shadow: 5px 25px 14px rgb(247, 246, 245);
   }
   .header-bio h1,h2 {
     font-family: 'Garamond', serif;
@@ -67,7 +67,7 @@
     width: 300px;
   }
   .right-part {
-    float: center;
+    float: right;
     padding: 20px;
     width: 600px;
   }
